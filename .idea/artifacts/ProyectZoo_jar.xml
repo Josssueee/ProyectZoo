@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProyectZoo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProyectZoo_jar</output-path>
+    <root id="archive" name="ProyectZoo.jar">
+      <element id="module-output" name="ProyectZoo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../postgresql-42.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
